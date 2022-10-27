@@ -4,9 +4,6 @@
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
-@import "layout/header";
-@import "layout/grid";
-
 @import "base/animations";
 @import "base/base";
 @import "base/typography";
@@ -19,5 +16,11 @@
 @import "components/story";
 @import "components/card";
 @import "components/form";
+@import "components/popup";
+
+@import "layout/header";
+@import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
 
 @import "pages/home";
